@@ -1,6 +1,6 @@
 <!--
 -->
-[product-screenshot]: assets/wisequotes.png
+[product-screenshot]: (assets/wisequotes.png)
 
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
