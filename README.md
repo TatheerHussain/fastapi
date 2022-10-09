@@ -8,7 +8,7 @@
 <br />
 <p align="center">
     <a href="https://wisequotes.com">
-        <img src="assets/icon.png" alt="Logo" width="80" height="80">
+        <img src="assets/wisequotes.png" alt="Logo" width="80" height="80">
     </a>
 
 <h3 align="center"><a href="https://linkhere">read more about us</a></h3>
