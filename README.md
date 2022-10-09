@@ -2,14 +2,6 @@
 -->
 [product-screenshot]: (assets/wisequotes.png)
 
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
-
 
 
 <!-- PROJECT LOGO -->
@@ -68,8 +60,10 @@ Of course, no one template will serve all projects since your needs may be diffe
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
-* [yo]()
-* [vsce]()
+* [FastAPI]()
+* [Python]()
+* [Uvicorn]()
+* [vscode]()
 
 
 <!-- GETTING STARTED -->
