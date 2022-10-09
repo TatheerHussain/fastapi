@@ -122,7 +122,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-oGranny - ogranny.github.io@gmail.com
+
 
 Project Link: [https://github.com/TatheerHussain/fastapi](https://github.com/TatheerHussain/fastapi)
 
