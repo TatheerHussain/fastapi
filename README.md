@@ -1,7 +1,7 @@
 <!--
 -->
 
-<img src="/assets/wisequotes.png" alt="wisequotes.png">
+<img src="assets/wisequotes.png" alt="wisequotes.png">
 
 
 <!-- PROJECT LOGO -->
